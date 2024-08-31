@@ -19,3 +19,23 @@ Ollama 프로그램을 다운 받으셔서 사용하시면됩니다.
 
 - 해당 작품 설명 Velog
 https://velog.io/@bellfollow/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%ED%95%99%EA%B5%90-%EC%A1%B8%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-Gradio-AI-%EB%AA%A8%EB%8D%B8-%ED%86%B5%ED%95%A9-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
+
+The project was developed in a Windows environment, and the web page was created using Gradio.
+
+The project was made using the following checkpoints:
+
+Make a new folder named checkpoints under this project, and put the downloaded weights files in checkpoints. You can download the weights using the following URLs:
+
+vit_h: ViT-H SAM model
+Additionally, Ollama was used. Please download the Ollama program to use it.
+
+ollama run llava
+
+It is recommended to download them separately since both files are quite large. Downloading one at a time will make it easier to check for any errors that may occur.
+
+ollama run llama2
+
+A detailed explanation of this project will be posted on Velog.
+
+Detailed project explanation on Velog: https://velog.io/@bellfollow/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%ED%95%99%EA%B5%90-%EC%A1%B8%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-Gradio-AI-%EB%AA%A8%EB%8D%B8-%ED%86%B5%ED%95%A9-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0
